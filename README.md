@@ -1,1 +1,1 @@
-Basics of Redux
+BASICS OF REDUX
